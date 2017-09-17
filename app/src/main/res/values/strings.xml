@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Collapsing toolbar</string>
+    <string name="recent_news">CardView</string>
+    <string name="in_news">CardView is another major element introduced in Material Design. Using CardView you can represent the information in a card manner with a drop shadow (elevation) and corner radius which looks consistent across the platform. CardView extends the FrameLayout and it is supported way back to Android 2.x.
+You can achieve good looking UI when CardView is combined with RecyclerView. In this article we are going to learn how to integrate CardView with RecyclerView by creating a beautiful music app that displays music albums with a cover image and title.
+</string>
+    <string name="publish_date">2017-04-30  12:13:14</string>
+</resources>
